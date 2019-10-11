@@ -7,20 +7,7 @@
 #|          /   /_____   |     |          |
 #|____ /________/_|____|____|
 #SPAM KONTOL FOR AAY:v PERCOBAAN AGAR LITESPAM TOKED SINGKAT
-echo "close"
-echo "ZI20 PROJECT"
-}
-load(){
-    echo -e "\n"
-    bar=" >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> "
-    barlength=${#bar}
-    i=0
-    while((i<100)); do
-        n=$((i*barlength / 100))
-        printf "\e[00;32m\r[%-${barlength}s]\e[00m" "${bar:0:n}"
-        ((i += RANDOM%5+2))
-        sleep 0.2
-    done
+close
 0.03
 0.7
 0.2
