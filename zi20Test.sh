@@ -8,7 +8,7 @@
 #|____ /________/_|____|____|
 #SPAM KONTOL FOR AAY:v PERCOBAAN AGAR LITESPAM TOKED SINGKAT
 echo "close"
-print "ZI20 PROJECT"
+echo "ZI20 PROJECT"
 }
 load(){
     echo -e "\n"
